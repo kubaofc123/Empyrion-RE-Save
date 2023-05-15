@@ -1,0 +1,25 @@
+{
+	"Beta": 
+	{
+		{
+			"region": "Roggery",
+			"miners": ["Iron", "Erestrum", "Promethium"]
+		},
+		{
+			"region": "Roggery Sector",
+			"base": ["Orbital Construtor", "Sitkowo"]
+		},
+		{
+			"region": "Roggery Moon",
+			"miners": ["Pentaxid"]
+		}
+	},
+	"Malirawyn":
+	{
+		{
+			"region": "AKEZP 22420 V",
+			"base": ["Miner-Trader Base"],
+			"notes": "Mining trader for promethium"
+		}
+	}
+}
