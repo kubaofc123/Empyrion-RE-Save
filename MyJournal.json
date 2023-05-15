@@ -21,5 +21,12 @@
 			"base": ["Miner-Trader Base"],
 			"notes": "Mining trader for promethium"
 		}
+	},
+	"Delta":
+	{
+		{
+			"region": "Oscutune",
+			"notes": "Hack console"
+		}
 	}
 }
