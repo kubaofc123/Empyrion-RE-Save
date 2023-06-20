@@ -3,7 +3,8 @@
 	{
 		{
 			"region": "Roggery",
-			"miners": ["Iron", "Erestrum", "Promethium"]
+			"miners": ["Iron", "Erestrum", "Promethium", "Copper"],
+			"base": ["Copper Mine"]
 		},
 		{
 			"region": "Roggery Sector",
