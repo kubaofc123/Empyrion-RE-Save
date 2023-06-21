@@ -13,6 +13,10 @@
 		{
 			"region": "Roggery Moon",
 			"miners": ["Pentaxid"]
+		},
+		{
+			"region": "Roggery Moon 1",
+			"miners": ["Titanium"]
 		}
 	},
 	"Malirawyn":
