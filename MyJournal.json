@@ -33,5 +33,13 @@
 			"region": "Oscutune",
 			"notes": "Hack console"
 		}
+	},
+	"Sabnikuth":
+	{
+		{
+			"region": "NEA 22402 I",
+			"miners": ["Zascosium"],
+			"notes": "Gold in valleys"
+		}
 	}
 }
